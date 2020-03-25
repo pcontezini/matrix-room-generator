@@ -1,4 +1,6 @@
-<h1> Workaround para gerar as salas no Matrix quando você tem algumas dezenas delas e fica complexo lidar com a variavel em uma linha só </h1>
+<h1> Matrix Room Tabajara Generator </h1>
+
+Workaround para gerar as salas no Matrix quando você tem algumas dezenas delas e fica complexo lidar com a variavel em uma linha só.
 
 <pre>
 Rodar o install.sh para instalar o underscore via npm.
